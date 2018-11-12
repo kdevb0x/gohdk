@@ -1,7 +1,5 @@
 package gohdk
 
-// +build js,wasm
-
 import (
 	"bufio"
 	"bytes"

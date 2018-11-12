@@ -1,5 +1,8 @@
 package gohdk
 
 import (
-	"expvar"
+	"encoding/json"
+	"runtime"
+	"syscall/js"
+	"unsafe"
 )
